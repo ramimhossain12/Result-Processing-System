@@ -1,4 +1,3 @@
-
 <?php 
 
 $fonts = "arial";
@@ -23,22 +22,28 @@ $fonts = "arial";
 		
     <h2>Daffodil international university <br/
     	>Result Processing System</h2>
+		<h2>Student Portal <br/
+    	</h2>
 	</SECTION>
 
 	<section class = "maincontent">
 
- 
+<html>
+<head>
+<titile> Online Result system</title>
+</head>
+<body>
 
 <form name="Result" method="POST" action="process.php">
-	<b>Enter Your University ID Number: </b>
-	<input type="text" name="regno">
+<b>Enter Your University ID Number: </b>
+	<input type="text" name="student_id">
 	<input type="submit" name="search">
-</form>
 
-</section>
+
+	</section>
 
 <SECTION class="footer">
-		<p>@copy: 2020 Result Processing System</p>
+		<p>Result Processing System</p>
     <h2>Developer By Ramim Hossain</h2>
 	</SECTION>
 	
@@ -47,3 +52,4 @@ $fonts = "arial";
 
 </body>
 </html>
+
