@@ -1,6 +1,6 @@
 <?php 
 
-$fonts = "arial";
+$fonts = "Stencil";
 
  ?>
 <!DOCTYPE html>
@@ -9,8 +9,8 @@ $fonts = "arial";
 	<title>Online Result System</title>
 	<style>
 		
-       .phpcoding{width: 990px;margin: 0 auto ; background: #5DADE2   ;padding:20px;}
-       .header,.footer{background: #000000 ;color:#F7F9F9  ;text-align: center; }
+       .phpcoding{width: 990px;margin: 0 auto ; background: #FFF8DC   ;padding:30px;}
+       .header,.footer{background: 	#FFFFFF ;color:#000000  ;text-align: center; }
          .maincontent{min-height: 400px }
 
 	</style>

@@ -61,7 +61,7 @@ include 'config.php';
     trigger_error('Wrong SQL Command: ' . $sql . ' Error: ' . $conn->error, E_USER_ERROR);
   }  
   else 
-  { // Jika berhasil alihkan ke halaman tampil.php
+  { 
     echo "<script>alert('Add Success!')</script>";
   	echo "<meta http-equiv=refresh content=\"0; url=index.php\">";
   }

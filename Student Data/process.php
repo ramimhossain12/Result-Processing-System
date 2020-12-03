@@ -10,7 +10,7 @@ $fonts = "arial";
 	<title>PHP Syntax</title>
 	<style>
 		
-       .phpcoding{width: 990px;margin: 0 auto ; background: #9FBBE7   ;padding:20px;}
+       .phpcoding{width: 990px;margin: 0 auto ; background: #3498DB   ;padding:20px;}
         .header,.footer{background: #000000;color:#fff;text-align: center; }
          .maincontent{min-height: 400px }
 
@@ -64,7 +64,7 @@ try{
 	
 
 <SECTION class="footer">
-		<p>@copy; 2020 Result Processing System</p>
+		<p>2020 Result Processing System</p>
     <h2>Developer By Ramim Hossain</h2>
 	</SECTION>
 

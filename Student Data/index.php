@@ -6,20 +6,28 @@ $fonts = "arial";
 <!DOCTYPE html>
 <html>
 <head>
+ 
 	<title>Online Result System</title>
+	
 	<style>
-		
-       .phpcoding{width: 990px;margin: 0 auto ; background: #FFC300  ;padding:20px;}
-       .header,.footer{background: #000000 ;color:#53B600 ;text-align: center; }
-         .maincontent{min-height: 400px }
+			 
+       .phpcoding{width: 990px;margin: 0 auto ; background: #0000}
+       .header,.footer{background: #58D68D ;color:#000000 ;text-align: center; }
+	   
+	
+         .maincontent{min-height: 370px }
 
 	</style>
+
 </head>
+<body background = "ff.jpg">
 <body>
 
 	<div class ="phpcoding">
+	
+	
 	<SECTION class="header">
-		
+	<img src="ee.png">
     <h2>Daffodil international university <br/
     	>Result Processing System</h2>
 		<h2>Student Portal <br/
@@ -30,7 +38,7 @@ $fonts = "arial";
 
 <html>
 <head>
-<titile> Online Result system</title>
+<titile> Academic Result</title>
 </head>
 <body>
 
