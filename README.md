@@ -3,11 +3,11 @@ This is a simple result management system developed in PHP language. Change the 
 
 # Login Page :
 
-![](image/Login-form.png)
+![](image/login.png)
 
 # Registration Page :
 
-![](image/registration.png)
+![](image/reg.png)
 
 # Admin Portal :
 ![](image/admin.png)
