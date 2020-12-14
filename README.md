@@ -10,11 +10,12 @@ This is a simple result management system developed in PHP language. Change the 
 ![](image/reg.png)
 
 # Admin Portal :
-![](image/admin.png)
-![](image/add.png)
+![](image/admin1.png)
+![](image/admin2.png)
 
 # Student Portal :
-![](image/stu.png)
+![](image/stu1.png)
+![](image/stu2.png)
 
 # DataBase Design :
 ![](image/database.png)
