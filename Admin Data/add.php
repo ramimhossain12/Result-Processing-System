@@ -19,7 +19,7 @@ $fonts = "arial";
 
 	<div class ="phpcoding">
 	<SECTION class="header">
-		
+  <img src="ee.png">
     <h2>Daffodil international university <br/
     	>Result Processing System</h2>
       <h2>Admin Panel </h2>
@@ -61,7 +61,7 @@ include 'config.php';
     trigger_error('Wrong SQL Command: ' . $sql . ' Error: ' . $conn->error, E_USER_ERROR);
   }  
   else 
-  { 
+  {
     echo "<script>alert('Add Success!')</script>";
   	echo "<meta http-equiv=refresh content=\"0; url=index.php\">";
   }

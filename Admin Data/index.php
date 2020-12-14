@@ -9,7 +9,7 @@ $fonts = "Stencil";
 	<title>Online Result System</title>
 	<style>
 		
-       .phpcoding{width: 990px;margin: 0 auto ; background: #FFF8DC   ;padding:30px;}
+       .phpcoding{width: 990px;margin: 0 auto ; background: #FFC300     ; padding:30px;}
        .header,.footer{background: 	#FFFFFF ;color:#000000  ;text-align: center; }
          .maincontent{min-height: 400px }
 
@@ -19,9 +19,10 @@ $fonts = "Stencil";
 
 	<div class ="phpcoding">
 	<SECTION class="header">
-		
+  <img src="ee.png">
     <h2>Daffodil international university <br/
     	>Result Processing System</h2>
+      Admin Portal
 	</SECTION>
 
 	<section class = "maincontent">
