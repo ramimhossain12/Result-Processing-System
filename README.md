@@ -22,3 +22,7 @@ This is a simple result management system developed in PHP language. Change the 
 
 
 ✔✔And Have fun Thanks................😀😀🤩🤩🙂
+
+## License & copyright
+Ramim Hossain, Resut processing system
+Licensed under the [MIT License](LICENSE).
